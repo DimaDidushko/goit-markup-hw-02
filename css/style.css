@@ -1,0 +1,140 @@
+a:link {
+  text-decoration: none;
+}
+.logo {
+  color: #2196f3;
+  font-family: "raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+}
+.logo-color {
+  font-family: "raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  color: #000000;
+}
+
+.hero {
+  background-color: #2f303a;
+}
+.title-h {
+  font-family: "roboto", sans-serif;
+  font-size: 44px;
+  font-weight: 900;
+  color: #ffffff;
+}
+.header-list-item {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #212121;
+}
+
+.header-list-item:hover {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #2196f3;
+}
+.header-mail {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #000000;
+}
+.header-tel {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #000000;
+}
+.header-tel:hover {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #2196f3;
+}
+.header-mail:hover {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #2196f3;
+}
+
+.btn {
+  font-family: "roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+.sectio-title-hhh {
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  color: #212121;
+}
+.section-text {
+  font-family: "roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #757575;
+}
+.section-title-hh {
+  font-family: "roboto", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: #212121;
+}
+.logo-color-footer {
+  color: #ffffff;
+}
+
+.footer {
+  background-color: #2f303a;
+  color: #ffffff;
+}
+.footer-nav {
+  color: rgba(255, 255, 255, 0.6);
+}
+.our-team {
+  background-color: #f5f4fa;
+}
+.our-team.section-title-hh {
+  font-family: "roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.our-team.section-text {
+  font-family: "roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.btn-portfolio {
+  font-family: "roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #212121;
+  background-color: #f5f4fa;
+}
+.btn-portfolio:hover {
+  font-family: "roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.portfolio-title-hhh {
+  font-family: "roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #212121;
+}
+.portfolio-text {
+  font-family: "roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #757575;
+}
