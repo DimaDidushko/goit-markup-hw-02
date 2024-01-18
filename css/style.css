@@ -20,15 +20,16 @@
 
 :root {
   --font-roboto: "roboto", sans-serif;
+  --text-color-main: color: #757575;
 }
 
 /*-------------body----------*/
 
 .logo {
   color: #2196f3;
-  font-family: "raleway", sans-serif;
-  font-size: 26px;
+  font-family: 'raleway', sans-serif;
   font-weight: 700;
+  font-size: 26px;
   letter-spacing: 0.78px;
 }
 
@@ -55,6 +56,7 @@
   color: #ffffff;
   text-align: center;
   font-family: var(--font-roboto);
+  text-transform: uppercase;
   font-size: 44px;
   font-weight: 900;
   line-height: 1.36; /* 136.364% */
@@ -75,11 +77,13 @@
   font-size: 14px;
   font-weight: 500;
   color: #2196f3;
+  letter-spacing: 0.28px;
 }
+
 
 .header-tel,
 .header-mail {
-  color: #000000;
+  color: #757575;
   font-family: var(--font-roboto);
   font-size: 14px;
   font-weight: 500;
@@ -92,6 +96,7 @@
   font-size: 14px;
   font-weight: 500;
   color: #2196f3;
+  letter-spacing: 0.28px;
 }
 
 .header-mail:focus,
@@ -132,11 +137,11 @@
 }
 
 .section-text {
-  color: #757575;
+  color: var(--text-color-main);
   font-family: var(--font-roboto);
   font-size: 16px;
-  font-weight: 400;
   letter-spacing: 0.48px;
+  line-height: 1.71;
 }
 
 .section-title-hh {
@@ -153,16 +158,15 @@
 }
 
 .our-team.section-text {
-  color: #757575;
+  color: var(--text-color-main);
   text-align: center;
   font-family: var(--font-roboto);
   font-size: 16px;
-  font-weight: 400;
   letter-spacing: 0.48px;
 }
 
 .team-title-hhh {
-  color: #212121;
+  color: var(--text-color-main);
   text-align: center;
   font-family: var(--font-roboto);
   font-size: 16px;
@@ -202,8 +206,8 @@
 .footer-nav {
   color: rgba(255, 255, 255, 0.6);
   font-family: var(--font-roboto);
+  font-style: normal;
   font-size: 14px;
-  font-weight: 400;
   line-height: 1.71; /* 171.429% */
   letter-spacing: 0.42px;
 }
@@ -241,14 +245,19 @@
 .portfolio-title-hh {
   color: #212121;
   font-family: var(--font-roboto);
-  font-size: 36px;
+  font-size: 18px;
   font-weight: 700;
   letter-spacing: 1.08px;
+  line-height: 2;
 }
 
 .portfolio-text {
   font-family: var(--font-roboto);
   font-size: 16px;
-  font-weight: 400;
   color: #757575;
+  line-height: 1.87;
+}
+
+.adress {
+  font-style: normal;
 }
