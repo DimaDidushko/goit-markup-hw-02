@@ -158,6 +158,7 @@ body {
 
 .team-title-hhh {
   color: var(--title-color);
+  font-size: 16px;
   text-align: center;
   font-weight: 500;
   letter-spacing: 0.48px;
@@ -209,7 +210,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   color: var(--title-color);
-  background-color: var(--color-white);
+  background-color: #f5f4fa;
   cursor: pointer;
 }
 
