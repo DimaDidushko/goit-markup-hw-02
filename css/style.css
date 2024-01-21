@@ -47,6 +47,7 @@ body {
 
 .hero {
   background-color: #2f303a;
+  text-align: center;
 }
 
 .header-list .header-item.current {
@@ -147,7 +148,7 @@ body {
 }
 
 .our-team {
-  background-color: var(--color-white);
+  background-color: #f5f4fa;
 }
 
 .our-team.section-text {
